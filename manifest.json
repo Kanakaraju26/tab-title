@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Extension",
+    "version": "1.0",
+    "description": "Shows the current tab's title when the button is clicked.",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
